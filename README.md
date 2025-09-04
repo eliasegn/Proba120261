@@ -1,6 +1,6 @@
-# Probabilidad I 
+# Probabilidad I
 
-Material complementario de simulación para el curso de Probabilidad I
+Material complementario de simulación para el curso de Probabilidad I, grupo 9016, semestre 2026-1.
 
 ---
 ![](https://behavioralscientist.org/wp-content/uploads/2021/10/You-should-switch_Pinker-resized.gif)
